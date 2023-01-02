@@ -1,7 +1,7 @@
-👋 Hi, I’m Muhammet
-🔭 I’m currently working on coding
-⚡ Fun fact: I love coding and to learn new language
-📫 How to reach me mfetbay@gmail.com
+--👋 Hi, I’m Muhammet
+--🔭 I’m currently working on coding
+--⚡ Fun fact: I love coding and to learn new language
+--📫 How to reach me mfetbay@gmail.com
 - 
 
 <!---
